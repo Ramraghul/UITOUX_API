@@ -38,11 +38,14 @@ GET ---> /banner/offer_banner: Returns information about banner offers.
 ## install the dependencies `npm install`
 ## Add the Database file in your Database `Database inside the file`
 ## Start the server `npm start || nodemon`
+
 </br>
 </br>
-# Technologies Used
+<h2>Technologies Used</h2>
+Node.js
 </br>
-## Node.js
-## Express.js
-## My SQL
-## JWT
+Express.js
+</br>
+My SQL
+</br>
+JWT
